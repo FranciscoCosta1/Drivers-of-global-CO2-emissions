@@ -2,7 +2,7 @@
 
 Academic Project for the course of **Statistics for Enterprise Data Analysis**
 
-Group: Francisco Costa, João Gouveia, Pedro Riveira, Nuno Rocha
+Group: Francisco Costa, João Gouveia, Pedro Rivera, Nuno Rocha
 
 Programming Language: **R**
 
