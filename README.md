@@ -1,4 +1,4 @@
-# Drivers-of-global-CO2-emissions
+# Drivers of global CO2 emissions
 
 Academic Project for the course of **Statistics for Enterprise Data Analysis**
 
